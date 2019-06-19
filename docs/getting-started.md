@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+- Hello!! let's play together!
+- Hola que tal!?
+- Coding will free you...
