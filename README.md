@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- The objective of the app is to greet new developers
+- The project is now open source
+- Anyone is welcome to contribute!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- It makes newcomers more happy
+- It makes interaction easier
+- and has a chaming personality
 
 ## Getting started
 
